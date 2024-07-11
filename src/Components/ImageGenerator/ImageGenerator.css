@@ -1,7 +1,7 @@
 .ai-image-generator {
     font-family: 'Arial', sans-serif;
     text-align: center;
-    max-width: 800px;
+    max-width: 100%;
     margin: 50px auto;
     margin-top: 10px;
     background-color: black;
@@ -75,7 +75,7 @@
   }
   
   .search-input {
-    width: 100%;
+    width: 50%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -103,6 +103,8 @@
     background-color: #3dccc5;
     color: #fff;
     padding: 15px 30px;
+    width: 25%;
+    margin: 0 550px;
     font-size: 18px;
     border-radius: 6px;
     background:#de1b89;
